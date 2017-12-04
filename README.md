@@ -1,5 +1,7 @@
 # Fury API Blueprint Serializer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/apiaryio/fury-adapter-apib-serializer.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://img.shields.io/travis/apiaryio/fury-adapter-apib-serializer.svg)](https://travis-ci.org/apiaryio/fury-adapter-apib-serializer)
 [![Test Coverage](https://img.shields.io/codeclimate/coverage/github/apiaryio/fury-adapter-apib-serializer.svg)](https://codeclimate.com/github/apiaryio/fury-adapter-apib-serializer/coverage)
 [![NPM version](https://img.shields.io/npm/v/fury-adapter-apib-serializer.svg)](https://www.npmjs.org/package/fury-adapter-apib-serializer)
